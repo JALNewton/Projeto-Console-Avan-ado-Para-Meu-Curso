@@ -1,0 +1,11 @@
+Senha incorreta! tentativas restantes: 5
+- Deseja tentar novamente? digite SIM(s) NÃO(n):
+Senha incorreta! tentativas restantes: 4
+- Deseja tentar novamente? digite SIM(s) NÃO(n):
+Senha incorreta! tentativas restantes: 3
+- Deseja tentar novamente? digite SIM(s) NÃO(n):
+Senha incorreta! tentativas restantes: 2
+- Deseja tentar novamente? digite SIM(s) NÃO(n):
+Senha incorreta! tentativas restantes: 1
+- Deseja tentar novamente? digite SIM(s) NÃO(n):
+Tentativas excedidas! por segurança o programa será encerrado em 5 segundos verifique com algum superior se está com problemas em seu acesso!
